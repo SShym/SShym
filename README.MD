@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/92689817/232241781-eed0bcfb-a229-428f-b449-375a8d49ffe3.gif" width="500"><br/>
+    <img src="https://user-images.githubusercontent.com/92689817/232242314-bdc415bc-8a89-449c-bf00-104d6e6f47f6.svg" style="width: 160px; height: 40px;">
+    <img src="https://user-images.githubusercontent.com/92689817/232241781-eed0bcfb-a229-428f-b449-375a8d49ffe3.gif" width="500"><br/>
     <img src="https://user-images.githubusercontent.com/92689817/232241904-5a47957e-987d-4b3b-a396-fb02b2604739.svg" style="width: 160px; height: 40px;">
     <img src="https://user-images.githubusercontent.com/92689817/232241905-b4da2267-f6df-40fb-a27e-e4f9e3bc4c7e.svg" style="width: 160px; height: 40px;">
     <img src="https://user-images.githubusercontent.com/92689817/232241906-bcd62d87-9041-4ba5-9044-630053a3bcae.svg" style="width: 160px; height: 40px;">

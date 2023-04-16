@@ -8,5 +8,5 @@
     <img src="https://user-images.githubusercontent.com/92689817/232241909-f1e1c230-223a-45bb-a97c-c441be282eb3.svg" style="width: 160px; height: 40px;">
     <img src="https://user-images.githubusercontent.com/92689817/232241906-bcd62d87-9041-4ba5-9044-630053a3bcae.svg" style="width: 160px; height: 40px;">
     <img src="https://user-images.githubusercontent.com/92689817/232339113-fbb2f233-56b4-4d65-ab43-4d980013fac4.jpg" style="width: 160px; height: 40px;">
-    <img src="https://user-images.githubusercontent.com/92689817/232343767-793d58e5-5f1b-4585-8e48-263ce6446c2c.jpg" style="width: 160px; height: 40px;">
+    <img src="https://user-images.githubusercontent.com/92689817/232343807-fe36d9e4-cc25-42b3-80d1-2ddc2ff13142.png" style="width: 160px; height: 40px;">
 </div>
